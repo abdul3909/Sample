@@ -1,0 +1,4123 @@
+Urdu,Roman-Urdu
+اکابانی, akbani
+اویس, awais
+بہجت, behjat
+مصطفی, mustafa
+عزیر, uzair
+سمیع, Sami
+عدنان, Adnan
+عبدل, Abdul
+باسط, Basit
+زوہیب, zohaib
+ خبر , khabar
+ آباد , aabaad
+ آبرو , aabroo
+ آپ , aap
+ آداب , aadaab
+ آدمی , aadmi
+ آدمیت , aadmiyyat
+ آرا , aaraa
+ آرام , aaraam
+ آرزو , aarzoo
+ از , aaz
+ اس , aas
+ آسان , aasaan
+ آسمان , aasmaan
+ آگ , aag
+ آنسو , aan.soo
+ آواز , aawaaz
+ ابتداءً , ibtidaa'
+ ابتر , abtar
+ آباد , abad
+ آبرو , abroo
+ اتحاد , ittiHaad
+ اتفاق , ittifaaq
+ اٹک , aTak
+ اثر , asar
+ اجازت , ijaazat
+ اجنبی , ajnabee
+ احتیاط , iHtiyaat
+ احساس , iHsaas
+ احسان , iHsaan
+ اخبار , akhbaar
+ اختیار , ikhtiyaar
+ ادا , adaa
+ ادا , adaa
+ ادراک , idraak
+ ادب , adib
+ عرض , arz
+ اساس , asaas
+ اسباب , asbaab
+ استاد , ustaad
+ اشتہار , ishtihaar
+ اصل , asl
+ اصلی , asli
+ اضطراب , iztiraab
+ افراط , ifraat
+ افسوس , afsos
+ اقبال , iqbaal
+ اقرار , iqraar
+ اکبر , akbar
+ اکثر , aksar
+ اکثر , aksar
+ اگر , agar
+ ال , al
+ امانت , amaanat
+ امتیاز , imtiyaaz
+ امید , ummid
+ انتقام , intiqaam
+ انجام , anjaam
+ انجمن , anjuman
+ انسان , insaan
+ انکار , inkaar
+ اوقات , auqaat
+ اوقات , auqaat
+ باب , baab
+ بات , baat
+ بعد , baad
+ بادل , baadal
+ بارش , baarish
+ باریک , baareek
+ باز , baaz
+ باز , baaz
+ باز , baaz
+ بازار , baazaar
+ بازو , baazoo
+ بازی , baazi
+ باغ , baagh
+ باقی , baaqee
+ باقی , baaqee
+ بام , baam
+ بانکا , baan.kaa
+ بحث , baHs
+ بخار , bukhaar
+ بخت , bakht
+ بعد , bad
+ بدل , badal
+ برابر , baraabar
+ برداشت , bardaasht
+ برسات , barsaat
+ برکت , barkat
+ بزرگ , buzurg
+ بس , bas
+ بستر , bistar
+ بسیرا , baseraa
+ بشر , bashar
+ بغاوت , baghaawat
+ بغل , baghal
+ بنیاد , bunyaad
+ بعد , bood
+ بہادر , bahaadur
+ بے ادب , be adab
+ بےچین , be chain
+ بے خبر , be khabar
+ بے داغ , be daagh
+ بے درد , be dard
+ بے رحم , be rahm
+ بے ریا , be riyaa
+ بے زبان , be zabaan
+ بے شرم , be sharm
+ بے صبر , be sabr
+ بے فکر , be fikr
+ بے کار , be kaar
+ بے وقوف , be waqoof
+ بیان , bayaan
+ بیزار , bezaar
+ بیمار , bimaar
+ پار , paar
+ پاس , paas
+ پاسبان , paas baan
+ پاک , pak
+ پاگل , paagal
+ پانی , paani
+ پرورش , parwarish
+ پریشان , pareshaan
+ پسند , pasand
+ پشیمان , pashemaan
+ پل , pal
+ پلک , palak
+ پیغام , paighaam
+ پیمان , paimaan
+ تاج , taj
+ تاریخ , taarikh
+ تاک , taak
+ تبدیل , tabdeel
+ تخت , takht
+ ترس , tars
+ ترس , tars
+ ترکیب , tarkeeb
+ تصور , tasawwur
+ تقدیر , taqdeer
+ تکلیف , takleef
+ تمام , tamaam
+ تیر , teer
+ تیز , tez
+ ٹپکنا , Tapaknaa
+ ٹکر , Takkar
+ ٹوٹ , TooT
+ ثابت , saabit
+ ثابت , saabit
+ ثقافت , siqaafat
+ جادو , jaadu
+ جاگیر , jaagir
+ جاہل , jaahil
+ جدا , judaa
+ جدائی , judaaee
+ جستجو , justjoo
+ جسم , jism
+ جشن , jashn
+ جال , ja'l
+ جگر , jigar
+ جنت , jannat
+ جنگ , jang
+ جواب , jawaab
+ جوش , josh
+ جہاز , jahaaz
+ چادر , chaadar
+ چاقو , chaaqoo
+ چال , chaal
+ چراغ , charaagh
+ چمک , chamak
+ چند , chand
+ چیز , cheez
+ چین , chain
+ حاضر , Haazir
+ حاکم , Haakim
+ حال , Haal
+ حالت , Haalat
+ حرام , Haraam
+ حساب , Hisaab
+ حسین , Haseen
+ حضرت , Hazrat
+ حفاظت , Hifaazat
+ حقیقت , Haqeeqat
+ حکم , Hukm
+ حکمت , Hikmat
+ حیثیت , Haiseeyat
+ خاص , khaas
+ خاک , khaak
+ خالص , khaalis
+ خام , khaam
+ خاموش , khaamosh
+ خاندان , khaandaan
+ خبر , khabar
+ خدا , khuda
+ خراب , kharaab
+ خشک , khushk
+ خنجر , khanjar
+ خواب , khwaab
+ خود , khood
+ خوش , khoosh
+ خون , khoon
+ خیال , khayaal
+ داد , daad
+ داستان , daastaan
+ داغ , daagh
+ دامن , daaman
+ دراز , daraaz
+ درد , dard
+ درس , dars
+ درست , durust
+ درشت , durusht
+ درمیان , darmiyan
+ دریا , darya
+ دستور , dastoor
+ دشمن , dushman
+ دشوار , dushwaar
+ دل , dil
+ دلبر , dilbar
+ دلچسپ , dil chasp
+ دلسوز , dil soz
+ دلفریب , dil fareb
+ دلکش , dil kash
+ دماغ , dimaagh
+ دنیا , dunyaa
+ دور , door
+ دور , daur
+ دوست , dost
+ دولت , daulat
+ دیوار , deewaar
+ ذاتی , zaati
+ ذکر , zikr
+ راز , raaz
+ سچا , raast
+ رحم , rahm
+ رخسار , rukhsaar
+ رسم , rasm
+ رفتار , raftaar
+ رفیق , rafeeq
+ رقیب , raqeeb
+ رنگ , ran.g
+ ریشم , resham
+ زبان , zabaan
+ زحمت , zaHmat
+ زخم , zakhm
+ زکام , zukaam
+ زمین , zameen
+ زنجیر , zanjeer
+ زندگی , zindagi
+ ساحل , saaHil
+ ساز , saaz
+ ساقی , saaqee
+ سال , saal
+ سامان , saamaan
+ سانس , saan.s
+ سحر , saHar
+ سخت , sakht
+ سر , sar
+ سزا , sazaa
+ سست , sust
+ سفارش , sifaarish
+ سفر , safar
+ سفید , safed
+ سوال , sawaal
+ سونا , soona
+ شاخ , shaakh
+ شاگرد , shaagird
+ شام , shaam
+ شامل , shaamil
+ شان , shaan
+ شہتیر , shaahtir
+ شبنم , shabnam
+ شراب , sharaab
+ شرافت , sharaafat
+ شرط , shart
+ شرم , sharm
+ شروع , shuroo'
+ شیر , shi'r
+ شکار , shikaar
+ شکر , shukr
+ شکل , shakl
+ شمشیر , shamsher
+ شوخ , shokh
+ شوق , shauq
+ شہر , shahr
+ شہید , shaheed
+ شیخی , shekhi
+ شیر , sher
+ صاف , saaf
+ صحبت , suHbat
+ صدر , sadr
+ ضابط , zaabit
+ ضابط , zaabit
+ حواله , zaamin
+ ضرب , zarb
+ ضرور , zaroor
+ ضرور , zaroor
+ ضرورت , zaroorat
+ ضمانت , zamaanat
+ ضمیر , zameer
+ طاقت , taaqat
+ طرف , taraf
+ تان , ta'n
+ طلب , talab
+ طوفان , toofaan
+ ظالم , zaalim
+ ظلم , zulm
+ عاجز , 'aajiz
+ عادت , 'aadat
+ عادل , 'aadil
+ عاقبت , 'aaqibat
+ عالم , 'aalam
+ عجب , 'ajab
+ علم , 'ilm
+ امر , 'umr
+ عوام , 'awaam
+ عورت , 'aurat
+ عیاش , 'aiyaash
+ غبار , ghubaar
+ غدّار , ghaddaar
+ غرض , gharaz
+ غرور , ghuroor
+ غریب , gharib
+ غزل , ghazal
+ غفلت , ghaflat
+ غلط , ghalat
+ غلیظ , ghaleez
+ غیر , ghair
+ غیر , ghair
+ غیر , ghair
+ غیر , ghair
+ فاضل , faazil
+ فرض , farz
+ فرق , farq
+ فرمان , farmaan
+ فریاد , faryaad
+ فریب , fareb
+ فضا , faza'
+ فطرت , fitrat
+ فکر , fikr
+ فوج , fauj
+ فہم , fahm
+ قابل , qaabil
+ قاتل , qaatil
+ قانون , qaanoon
+ قبر , qabr
+ قبول , qubool
+ قتل , qatl
+ قدم , qadam
+ قربان , qurbaan
+ قریب , qareeb
+ داغنے کا لوها , qasam
+ داغنے کا لوها , qism
+ قسمت , qismat
+ قوم , qaum
+ قید , qaid
+ قیمت , qeemat
+ مہم , kaar
+ کارواں , kaarwaan
+ کاغذ , kaaghaz
+ کافر , kaafir
+ کافر , kaafir
+ کافر , kaafur
+ کافی , kaafi
+ کام , kaam
+ کامران , kaamraan
+ کبوتر , kabootar
+ کتاب , kitaab
+ کثرت , kasrat
+ کرم , karam
+ کشتی , kashti
+ کشش , kashish
+ کفر , kufr
+ کل , kul
+ کمزور , kamzor
+ کمال , kamaal
+ بو , kamaan
+ کمر , kamar
+ کمی , kamee
+ کوشش , koshish
+ کل , kaul
+ کیف , kaif
+ کیفیت , kaifiyyat
+ گراں , giraan.
+ گردش , gardish
+ گرفتار , giriftaar
+ گرم , garm
+ گفتگو , guftgoo
+ گل , gul
+ غائب , gum
+ گمنام , gum naam
+ گمان , gumaan
+ گوارا , gawaaraa
+ گانے والی , goyaa
+ لغت , lughat
+ لفظ , lafz
+ لیاقت , liyaaqat
+ ماحول , maa Haul
+ ماتم , maatam
+ مال , maal
+ مالک , maalik
+ مایوس , maayoos
+ مجرم , mujrim
+ مجرم , mujrim
+ مجروح , majrooh
+ محافظ , muHaafiz
+ محبت , maHabbat
+ محتاج , muHtaj
+ محجوب , maHjoob
+ محدود , maHdood
+ محفل , maHfil
+ محفوظ , maHfooz
+ مختصر , mukhtasar
+ مخمل , makhmal
+ مدد , madad
+ مرد , mard
+ مریض , mareez
+ مزاج , mizaaj
+ مسافر , musaafir
+ مشکل , mushkil
+ مشہور , mashhoor
+ مصیبت , museebat
+ مضبوط , mazboot
+ مطلب , matlab
+ مغرور , maghroor
+ مفت , muft
+ مفلس , muflis
+ مفید , mufeed
+ مقابل , muqaabil
+ مقام , maqaam
+ مقدّم , muqaddam
+ مقرر , muqarrar
+ مقصد , maqsad
+ مکار , makkaar
+ مکان , makaan
+ ملک , mulk
+ ممتاز , mumtaaz
+ ممکن , mumkin
+ مناسب , munaasib
+ منزل , manzil
+ منظر , manzar
+ منظور , manzoor
+ موت , maut
+ موجود , maujood
+ موسم , mausam
+ موقع , mauqa'
+ موم , mom
+ مہاجر , muhaajir
+ مہمان , mihmaan
+ میدان , maidaan
+ ناتمام , naa tamaam
+ نافرمان , naa farmaan
+ ناکام , naa kaam
+ نا ممکن , naa mumkin
+ ناچ , naach
+ ناخن , naakhun
+ نازک , naazuk
+ ناک , naak
+ نالش , naalish
+ نام , naam
+ نرم , narm
+ نزاکت , nazaakat
+ نزدیک , nazdeek
+ نسبت , nisbat
+ نشان , nishaan
+ نصیحت , naseeHat
+ نظام , nizaam
+ نقش , naqsh
+ نقصان , nuqsaan
+ نقل , naql
+ نام , nam
+ نام , nam
+ نماز , namaaz
+ نو , nau
+ نم , nim
+ واحد , waahid
+ واردات , waaridaat
+ وجود , wujood
+ وزن , wazn
+ وضاحت , wazaahat
+ ملک , watan
+ وفا , wafaa
+ وقت , waqt
+ وکیل , wakeel
+ ویران , weeraan
+ ویرانی , weeraani
+ یا , yaa
+ یا , yaa
+ یادگار , yaad gaar
+ یاقوت , yaaqoot
+ یتیم , yateem
+لاڑکانا,larkana
+ٹيرن,turn
+جوﻻٔي,july
+انفو,info
+چیکو,chekoo5
+ون,one
+پڑے,pare
+پول,pol
+نونی,none
+کرتی,krti
+کیجیے,kejye
+روپا,roopa
+الليرنگ,alluring
+قبض,qbz
+مررید,married
+سادگی,saadgimeri
+بھنگ,bhang
+میں,main
+١٠٠٠,1000
+نھیں,nahi
+لاسٹنگ,lasting
+فلوير,flower
+جیب,jaib
+شکست,shikast
+نگری,nagri
+سہیل,sohail
+ریبل,rebel
+مطالعہ,mutala
+رنجش,ranjish
+جیتنے,jety
+گوریلا,goreela786ali
+باہر,bahir
+پيوپل,people
+پکایا,pakaya
+بھٹکنے,bhataknay
+اٹھیں,uthen
+بوجھ,bojh
+سانی,sani
+سیا,saya
+اصول,asool
+مہتاب,mhtab
+ٹھنڈا,thanda
+لگنا,lagna
+لڑنے,lrny
+کتابوں,kitabon
+دریا,darya
+جيسٹس,justice
+مارتے,marty
+کمانڈ,command
+رکھتی,rakhti
+اکیلے,akele
+اگر,agr
+رابی,rabi
+یر,yr
+دتا,dita
+ریجیکٹ,reject
+چاغی,chaghi1islamabd
+ه,hyye
+تیز,taiz
+لوہے,lohe
+امجد,amjid
+رکهتے,rakhte
+رانجھے,ranjhay
+بیٹری,bettary
+ٹوڈے,today
+سری,sari
+مسالا,masala
+تنہا,tanha
+سانڈے,sunday
+عالم,aalam
+الینا,alin8
+ہاته,hath
+حضرات,hzrat
+بابا,baba
+طنز,tanz
+پيٹرول,petrol
+وابسطہ,wabasta
+سادے,side
+کاغذ,kaghaz
+لمحوں,lamhon
+مورگن,morgunmeri
+تصو,taso
+ابسنس,absence
+۱,1
+بھر,bhar
+نیکی,neki
+یاران,yaraan
+دلاتا,dlata
+سردار,srdar
+پکڑنے,pkrnay
+بیچارے,bichare
+پاگلوں,paglon
+لینا,lena
+انڈر,undrwere
+رومںٹک,romantic
+ڈانٹ,dant
+یزید,yazeed
+وپپريسون,oppression
+کپڑوں,kapro
+هال,hal
+آصف,asif
+ٹیم,team
+دورانی,duarani
+سمجھو,smjho
+دوبارہ,dobara
+چیزوں,chezon
+کہو,kaho
+مسکرا,muskra
+حیا,haya
+گلوبل,global
+ریما,rema
+بیٹھو,betho
+مریض,mareez
+کھاتے,khaty
+کتا,kuta
+میمن,memon
+بیٹه,baith
+تو,to
+توڑنا,torna
+مغرور,maghrur
+ہوگئی,hogi
+باهر,bahar
+بچپن,bachpan
+ٹھنڈی,thandi
+بجتی,bajti
+خوا,khwa
+کوالٹي,quality
+انسورريکٹ,incorrect
+برتن,brtan
+مسکت,mscit
+ملو,milo
+دعوا,dawaa
+دروازے,drwazay
+پلے,playboy
+خمینی,khumaini
+يسيفيل,useful
+خوابوں,khwabon
+کونفرم,confirm
+جولائی,july
+پیغام,paigham
+ممبر,membr
+بہنا,behna
+عام,aam
+گرمی,garmi
+سٹورم,storm
+لوٹو,loto
+کرسی,kursi
+انڈو,ando
+ورڈ,wrd
+غفلت,ghaflat
+بولیں,bolen
+پکانے,pakaane
+اپکو,apko
+ورگنال,original
+جھٹ,jhot
+انتظام,intazam
+بھای,bhai
+سیکھے,sekhy
+قاسم,qasim
+واٹر,water
+چو,choo
+ونگ,wang
+نوشی,noshee
+غمگین,ghamgeen
+جانتے,jante
+آوٹ,out
+ہسبنڈ,husband
+ان,un
+کاش,kash
+پھیلی,paheli
+کیللر,killer
+ٹیلی,telenor
+اکیلی,akeli
+دکھایا,dukhaya
+ساره,sara
+ٹابل,table
+گجرانوالا,gujranwala
+لاٹر,later
+مزدور,mazdoor
+اڑی,ari
+ملتے,milte
+شد,shid
+اسے,usay
+آخر,akhir
+جذبات,jazbat
+ماحول,mahol
+چوہدری,ch
+مربی,mrb
+آہن,aahn
+برفی,barfee
+بتانا,btana
+زیوس,zeus
+رھا,raha
+گیاہ,gaya
+آلات,aalaat
+دہلیز,dehleez
+ساحل,sahil
+يير,year
+پنگا,panga
+اوبیڈی,e
+نیو,new
+چیک,chek
+کوکا,coca
+سڑکوں,sarkon
+سنڈے,sunday
+شخص,shakhs
+وکيپي,occupy
+بدی,budai
+کیٹی,kiti
+ہنسا,hansa
+معلوم,maloom
+گری,giri
+سیریل,seriali
+پنجاب,punjab
+لاذي,lazy
+عزتی,bazti
+گڑھی,garhi
+تسی,tusi
+توں,tu
+٢٨,28
+ذيرو,zero
+سنبھال,sanbhal
+بحرانی,behrani
+لکیریں,lakeerain
+نپال,nepal
+ہاں,han
+انوگف,enough
+نوٹس,notice
+٣٠٠,300
+سنار,sinar
+16,16
+مردوں,mardon
+بیٹی,beti
+ساجن,sajan
+ہارٹ,heart
+نيمبير,number
+بیت,beet
+کمار,kumar
+اٹھایا,uthaya
+نیلم,neelam
+مارکیٹ,market
+ٹونگيي,tongue
+روزانہ,rozana
+ممبرز,membrz
+پڑھنے,parhne
+کما,kamaw
+بیٹے,bety
+اکسيس,access
+بیوٹی,beauty
+ستا,sta
+پختون,pukhtoonkhva
+اختیار,ikhtiyar
+وہے,wahey
+یارر,yar
+پڑتی,parti
+لوھا,loha
+باتھ,bath
+ادھو,adhora
+بیکار,bekar
+ماؤں,maaon
+ہبہ,hbh
+وو,wo
+دیکھو,dekho
+هونے,hone
+یاد,yad
+شام,sham
+لطف,lutf
+زبانی,zubani
+بجلی,bijli
+انکليڈي,include
+درمیان,darmian
+سا,sa
+گانے,gane
+احوال,ahwal
+پکانا,pakana
+تازی,tazi
+کہنے,kehne
+ممبروں,membro
+رید,reed
+حرا,hira
+پار,paar
+رکھو,rakho
+نہر,nehr
+بریانی,baryani
+جایا,jaya
+نادانی,nadani
+هوتا,hota
+کھلے,khuley
+کوٹ,kot
+ساں,san
+مینس,means
+اليرٹ,alert
+چٹنی,chatni
+ہجوم,hajoom'e'dostan
+1,1
+دروغ,darogh
+شیعہ,sheya
+اللاه,allah
+خاکی,khake
+جوش,josh
+لیفٹ,lift
+عمران,imran
+بھری,bhari
+تلاش,talash
+بت,bt
+انتھ,an
+ھوا,hua
+حاصل,hasil
+بوڈی,body
+لکھیں,likhen
+ہان,han
+واجب,wajib
+حساب,hisab
+فیصل,faisal
+شانت,shanti
+واپڈا,wapda
+کب,kb
+ضمیر,zameerkon
+سہا,sahara
+ہمدرد,humdard
+مارري,marry
+نظارے,nazarechopal
+روبرو,rubaro
+آسودگی,aasoodgi
+گنے,gine
+اداس,udas
+بو,boy
+تاکہ,ta
+ناواقف,nawaqif
+ھاتھ,hath
+راس,ras
+ريميمبير,remember
+دادی,dadi
+کومپلٹ,complete
+غیروں,ghairon
+نکلے,nikle
+مرسی,mercy7halka
+ہاتے,hate
+پٹھانوں,pathano
+١٠,10
+کفایت,kafiyat
+ہی,hi
+چوزہ,choza
+لیڈی,ledy
+ملیں,milenge
+چاہتے,chahte
+رہتا,rehta
+ریکوسٹ,request
+ميمون,memon
+گرین,green
+آرہی,a
+فور,for
+محمّد,m
+سی,c
+نو,no
+آپس,aps
+کیو,q
+جناب,janab
+ٹھہرو,thehro
+علان,ilaan
+ذی,zy
+جینی,jenai
+وعدہ,wada
+ردا,rida
+اٹھا,utha
+وسلام,wasalam
+حجرے,hujre
+چاند,chand
+ستوں,ston
+بے,be
+فري,free
+طرار,traz
+صرف,sirf
+دھونی,dhoni
+ببلی,bubli
+چارم,charming
+۱۹۹۹,1999
+کہن,khan
+آنچ,aanch
+حسب,hasb
+گريف,grief
+کھیلی,kheli
+ریشم,resham
+بہادر,bahadur
+ذيل,zeal
+تاڑ,taar
+سومرا,somra
+کينٹري,country
+عادت,aadat
+اپن,apun
+تھرٹي,thirty
+١٤,14
+فارغ,farag
+پیس,peace
+ٹریٹ,treat
+سینگ,seng
+سلینتھ,silent
+شروع,shuru
+لونگی,loun
+ونڈو,window
+شھد,shahd
+ربیکا,rabica
+وہیلر,whealr
+کوپی,copy
+٧,7
+انڈیا,india
+ویل,wel
+دفع,dafa
+قبولیت,qaboliat
+وادي,wadi
+راحت,rahat
+تبدیل,tabdeel
+رپورٹ,report
+سونا,suna
+امانت,amanat
+حدیثِ,hadees
+مزاحیہ,mzahya
+شون,shown
+سینے,sene
+شریف,shareef
+عدنان,adnan
+تمھاری,tmhari
+زیل,zeal
+شي,she
+پریشانی,pryshani
+انو,suno
+شادابی,shadabitumhein
+مینے,mene
+بڑی,bari
+کپڑے,kapre
+ہما,huma
+دونٹ,dont
+ر,r
+شادی,shadi
+چوریاں,choriyan
+سٹانڈ,stand
+انیس,anis
+سالی,sali
+ٹوٹا,tota
+30,30
+ساما,saima
+دوزخی,dozkhi
+حوٹ,hot
+عباس,abass
+لیتے,letay
+سونیا,sonia
+جتنے,jitne
+بجھا,bujha
+فاحيم,faheem
+گانا,gana
+روتا,rota
+فریب,fareb
+بتایا,btaya
+آس,aas
+سٹين,stain
+گرلس,girls
+اسکا,uska
+فرض,farz
+منٹ,mint
+طاہر,tahir
+انجيسٹس,injustice
+نفرتوں,nafratonka
+گیٹ,getsensiblehi
+آیا,aya
+مہندی,mehndi
+پہنچ,pohanch
+رهی,rhi
+ميرے,mere
+فاملي,family
+جے,j
+نیچے,nechy
+بوڑھی,borhi
+منيٹي,minute
+بین,behn
+گہری,gehri
+بال,bal
+دانت,dant
+جہاز,jahaz
+سنسیر,sincere
+کرٹين,curtain
+دونوں,dono
+سمجھایا,samjhaya
+هے,hai
+شہرت,shuhrat
+باغ,baagh
+مات,maat
+جوي,joy
+دیکھتے,dekhte
+بجانا,bjana
+آبی,aabi
+افغانستان,afghanistan
+ہونا,hona
+پسی,pseibbpu
+بیہودہ,behoda
+والسلام,w
+گوم,gum
+نان,
+کھا,kha
+عمل,amal
+کھڑا,khara
+آں,aan
+ازاں,azaan
+جذب,jazb
+اٹھتے,uthte
+ٹانگیں,tangy
+پھولوں,phoolon
+ویسے,wese
+پڑھاتا,parhata
+بورن,born2love
+کڑیاں,kuriyan
+پاکستانی,pakistani
+جتنا,jitna
+پوانٹ,point
+لال,laal
+ستاروں,sitaron
+بدنصیب,badnasib
+تھنگ,thing
+سرکار,sarkar
+حفاظت,hifazat
+خو,khu
+برابر,barabar
+پينچ,punch
+مانند,maanind
+ڈرنا,drna
+خیالوں,khayalon
+شو,shoo
+کروٹ,krwat
+مانگا,manga
+کشش,kashish
+راب,rab
+کري,cry
+بوبی,boby786
+ہنی,honey
+بنک,bunk
+برو,bro
+حيرڈ,heard
+اسم,asim
+پرانا,purana
+سييڈ,syed
+ریپلاے,reply
+حو,ho
+گجرات,gujraat
+شدید,shadeed
+جاتا,jata
+سکتی,sakti
+بیا,bia
+ذکر,zikr
+ح,happy
+انکنون,unknown
+اظہار,izhaar
+جاننا,jan'na
+جانے,jane
+وار,waar
+موہ,mo
+نیٹورک,network
+بھیجا,bheja
+لؤڈ,load
+بیٹا,beta
+کہانی,kahani
+تمہارے,tumhary
+سیند,send
+آنی,ani
+موجود,mojood
+آونگا,aa'oonga
+یکی,yaki
+چا,cha
+سہارا,sahara
+ہرٹ,hurt
+نعش,nasha
+ادھورے,adhore
+پاتی,pati
+پهر,phr
+دھمال,dhammal
+نها,naha
+بابر,baber
+ستاس,stas
+آدھی,adhi
+کرنا,krna
+چلا,chala
+شباب,shabab
+دوزخ,dozakh
+کاندهار,kandhar
+ہیروز,heroz
+غار,ghar
+بولنے,bolne
+مارنے,marne
+فنڈ,find
+کالا,kala
+حالات,halaat
+لیتی,leti
+وکٹوں,wicto
+خلوص,khaloos
+شارق,shariq
+روکی,roki
+آجاتا,ajata
+سان,saani
+غور,ghour
+محبوب,maheboob
+بیچتا,bechta
+لڑکی,larki
+بیٹھے,bethe
+سیکھ,seekh
+سخی,sakhi
+دھوپ,dhoop
+وکیل,wakeel
+اقرار,iqraar
+مورخہ,morkha
+پرندے,parinde
+دیکھوں,dekhun
+دیرا,dera
+تمکو,tumko
+بروتھر,brother
+دکھا,dikha
+نقصان,nuqsan
+عزاب,azab
+گزرا,guzra
+اڑتے,6urte
+لگاو,lagao
+پیو,pio
+زنگو,zingoo
+با,ba
+گھوڑا,ghora
+باطل,batil
+مٹھا,mutha
+روح,rooh
+اشتہار,ishthr
+بننا,banna
+پڑھی,parhi
+ڈرٹی,durtyguy345
+را,raat
+ٹھوکر,thokar
+ہزار,hazar
+نالی,naali
+یہیں,yhi
+حبیب,habibjaan
+جوف,jauf
+ظاہر,zahir
+ہیلتھ,health1
+رسم,rasm
+تين,teen
+واٹ,wat
+دھم,dhammal
+سٹارز,starz
+گرمیوں,garmiyon
+بات,bat
+پیاسا,pyasa
+تفری,tafre
+چاہتی,chahti
+موہر,mohar
+چاہوگے,chahoge
+ماتم,matam
+حي,he
+مونڈے,monday
+سہی,sahi
+سکھا,sikha
+فہیم,fahim
+صفدر,safdr
+سلطان,sultan
+عارضی,aarzi
+سورج,suraj
+گیت,geet
+سودا,soda
+وضاحتیں,wazahteinkesi
+انٹری,entery
+مونا,muna
+کھاکر,khakar
+رول,rule
+اہم,ahem
+چنو,chuno
+دیو,daiyo
+تارے,tare
+اڑ,urr
+دورہ,dora
+چلیں,chlen
+پاسٹ,past
+انے,aane
+جيلي,july
+مہنگائی,mehngai
+مخالفت,mukhalfat
+کرکيٹ,cricket
+ینجوے,enjoy
+ريپورٹ,report
+پشت,pusht
+گنتی,ginty
+اردو,urdu
+تھن,thin
+طالب,talib
+ھوگا,hoga
+کراچی,karachi
+فاروق,farooq
+مولا,mola
+وین,whenevr
+پرنٹ,print
+خلاد,khiladi
+کرو,kro
+چوک,chocklate
+نقش,naqsh
+گولیاں,goliyan
+فورس,force
+انگ,ang
+حمو,humor
+اسلی,isly
+فرق,farq
+سب,sb
+آفٹر,aftr
+ييل,yell
+يٹس,etc
+سول,soulzy
+نرم,narm
+گاوں,gaaon
+نکلنا,nklne
+تیاری,tayari
+ہاہا,hahahahahaha
+مورنگ,morning
+بزم,bazm
+اپپيرانس,appearance
+گالی,gali
+گوسٹ,ghost
+جدو,jado
+ٹانگوں,tango
+کیا,kya
+ڈھلی,dhali
+امام,imam
+جنهوں,jinho
+ارین,aryan
+وہی,wohi
+فيرنٹير,furniture
+ونلي,only
+آب,ab
+پرسونل,personal
+نگاہیں,nigahein
+سمیٹ,samait
+اٹھے,uthe
+گلیوں,galyon
+کہی,kahi
+ملنا,milna
+کهانا,khana
+سہیلی,sahilli
+بھی,b
+گرانڈ,grand
+براڈکاسٹ,broadcast
+نگاہ,nigah
+الان,elan
+کہا,kaha
+غير,ghair
+حوالے,hawale
+سوتے,soty
+توڑنے,torny
+فيسال,faisal
+هيں,hain
+شانہ,shana
+خیال,khayal
+سکون,sukun
+کامیاب,kaamyab
+نٹ,nt
+چوری,chori
+تیل,tel
+احسان,ehsan
+بوکس,books4
+فلور,floor
+ملاتے,milatay
+ہوش,hushe
+دیکھنے,dekhny
+ارضی,arzi
+جون,jaaun
+بوجھل,bojhal
+غلام,gulam
+کنارا,kinara
+لاس,laso
+خادم,khadim
+پیا,pia
+باز,baaz
+فضا,fiza
+لامپ,lamp
+اتنا,itna
+جھوٹے,jhote
+الوايز,always
+موٹر,motor
+کشمیر,kashmir
+برداشت,bardasht
+سچح,such
+جستجو,justaju
+چاول,chawal
+بورنگ,borng
+آزاد,azad
+حورسي,horse
+ناک,naak
+بھاگ,bhag
+٤٢,42
+حقیقت,haqeeqat
+مروا,marwa
+ادھ,adhi
+انگور,angoor
+رانی,rani
+6,6
+ڈففيرينٹ,different
+بناتی,bnati
+امیر,ameer
+ڈیو,dew
+عکس,aks
+نادان,nadan
+پیتے,peety
+بازار,bazar
+ڈیڈ,deadmen
+چراغوں,charaghoon
+داستان,dastan
+صحیح,sahi
+پیاسے,piyase
+چڑھ,charh
+پروفسثور,professor
+گزاری,guzari
+جمی,jmi
+ڈيپ,deep
+مارا,mara
+تیر,teer
+پک,pk
+جنون,junoon
+مبارک,mubarik
+ناشتے,nashta
+گزرنا,guzrna
+دیا,dia
+جنکی,jinki
+کرتاتھا,krta
+واجد,wajid
+گمنام,gumnam
+نا,na
+فورا,fauran
+غیر,ghair
+درست,drust
+قبرستان,qabristan
+لاہوری,lahoriye
+چاشنی,chashni
+ہیںک,he
+ناظم,nazim
+لگو,lago
+حوٹيل,hotel
+الزام,ilzaam
+دینی,deni
+سرگوشیاں,sargoshiyanteri
+قابل,qabil
+کہاوت,kahawat
+گزار,guzar
+کاروبار,karobar
+واں,wan
+محفلوں,mehfilon
+ہے,hai
+گوبھی,gobhi
+کاٹتے,kat'te
+کؤ,ko
+پروفائل,profile
+زرا,zara
+۹,9
+کیہں,q
+امان,eman
+شورو,shuru
+ڈرو,daro
+سلامت,salamat
+سمیع,sami
+نیٹ,net
+پروا,parwa
+انھیں,unhain
+پھول,phool
+نظروں,nzaron
+دہشت,dehshat
+ناراضگی,narazgi
+پھیپھڑوں,phephron
+سارے,sare
+پڑوسی,parosi
+سبھی,sabhi
+بيٹ,beat
+استقبال,istiqbal
+خیر,khair
+واقع,waqi
+بولتی,bolti
+مارچ,march
+کھائی,khe
+کنو,know
+وضو,wazu
+کافي,kafee
+یوں,yun
+اختر,akhtar
+اچانک,achank
+ڈيتھ,death
+جمہوریت,jamhuriyat
+ميٹ,meet
+سمپل,semple
+آیت,aayat
+آپکی,apki
+مرغا,murgha
+اسنے,usne
+وا,wa
+چیا,cheyia
+امت,umat
+سوغات,soghat
+رج,rj
+هیل,hell
+غموں,ghamon
+ڈوبتے,doobte
+کو,ko
+رکھ,rakh
+آم,aam
+ہاشمی,hashmi
+سید,syd
+بانٹ,bant
+پہچانتا,pehchanta
+دھول,dhool
+يوار,your
+رات,raat
+نیند,neend
+جانياري,january
+ضروریات,zaroriat
+تقاضوں,taqazoon
+ذیشان,zeshan
+پاتھ,path
+شپ,shap
+ميحامميڈ,muhammed
+آتا,ata
+رضا,raza
+ھوں,hon
+٦,6
+ایسی,aisi
+سینما,cinema
+اصغر,asghar
+انتہا,inteha
+کہیں,kahin
+منیب,munibe
+دولت,dolat
+رم,rm
+گزرتی,guzarti
+نایاب,nayab
+بول,bol
+رومی,romi
+ستان,satana
+رشک,rashk
+چاہیے,chahiye
+پاؤں,paon
+احمر,ahmar
+فرد,frd
+دھوتے,dhote
+فرہاد,farhad0786
+پیسوں,paiso
+پیچھے,peche
+کاشف,kashif
+خلیفہ,khalifa
+حارس,haris
+ثوبیہ,sobia
+انتقال,inteqal
+پڑا,para
+اباد,aabad
+شرمیلا,shrmila
+بیچاری,bechari
+منع,mana
+وهاں,wahan
+پے,pe
+صاف,saaf
+محدود,mehdood
+سلمان,salman
+اف,uff
+احباب,ehbaab
+رومو,rom0
+زی,z
+جيسٹ,just
+تماشا,tamasha
+زویہ,zoya
+بیبی,bibi
+لاگو,lagao
+پنک,punkxx
+مجید,majeed
+ریو,riohfz
+ہاے,hi
+انلاوفيل,unlawful
+گاز,gaze
+جوانی,jawani
+سوال,sawal
+نکالی,nikali
+راه,rah
+لباس,libas
+ڈريکٹ,direct
+معصوم,masoom
+اشيس,ashes
+کہتا,kehta
+کردیں,karden
+انڈین,indians
+نجومی,najumi
+اپارٹ,apart
+یہاں,yahan
+انفڈيل,infidel
+بیچینی,bechaini
+ہنستا,hansta
+دکھی,dakhi
+لیا,lia
+رھے,rahe
+ميرا,mera
+گھوڑ,ghor
+شرط,shrt
+اطلاع,itla
+صفحوں,safhon
+ہلاک,halak
+متا,mata
+آوں,aaon
+چوس,choos
+شامل,shamil
+گے,gay
+دوڑ,dor
+اعتبار,aitbaar
+ویت,sweetpari22
+جاتی,jati
+کترینا,katrina
+سوچتا,sochta
+لایف,life
+ستاتی,stati
+موتھ,mother
+ہائے,hi
+حيللو,hello
+جاونگا,jaaongajo
+ہارا,haara
+احسن,ahsan
+پوری,puri
+بتاتا,btata
+حرف,hurf
+مسافر,musafir
+دنو,dino
+لکھتا,likhta
+جھک,jhuk
+سند,send
+لازم,lazim
+کھایا,khaya
+گولی,goli
+بازی,bazi
+نی,nai
+ٹھہرا,thehra
+ڈو,do
+بھوت,bhot
+مکان,makan
+ساس,saas
+هوپ,hope
+جعفری,jafri
+جویریہ,jaweria
+مومی,momigulzindagi
+رسوا,ruswa
+دنوں,dino
+کروانا,krwana
+رکا,ruka
+خریدار,kharidaar
+ضعیف,zaeef
+مقابلے,muqably
+اثر,asar
+انجواے,enjoy
+تبھی,tabhi
+بوند,boond
+جیسوں,jaiso
+گستاخ,gustaakh
+وش,wish
+سوہنی,sohni
+پان,pan
+نيچے,nechay
+نشین,nasheen
+مارو,maro
+گلا,gila
+بيسٹ,best
+زمین,zameen
+پهلا,phela
+نيا,naya
+میرے,mere
+جور,jor
+دینے,dene
+داد,daad
+شفیق,shafiqahmad
+کنگ,king
+شاخوں,shakhoon
+نشاں,nshan
+زات,zaat
+جوان,jawan
+تباہ,tabah
+لپٹی,lipti
+موجوں,mauj0on
+ضروری,zaroori
+تعمير,tameer
+ددے,dude
+کہوں,kahon
+سکي,sky
+چين,hychain
+ياحيا,yahya
+تجارت,tijarat
+اشاميڈ,ashamed
+٨,8
+مونيي,money
+اجاڑ,ujar
+سٹون,ston
+بهے,b
+اجڑے,ujre
+نوسي,noise
+بچوں,bachon
+دیاہے,dia
+درد,dard
+سف,sfjan2
+سہتا,sehta
+سنا,suna
+کیے,ky
+کونٹراري,contrary
+چیرمین,chairman
+لاؤ,lao
+يمار,umar
+نہانے,nahi
+دار,der
+دوسرے,dosry
+گفتگو,guftugo
+ظہبی,zahbi
+ابی,abi
+ماد,maad
+اجر,ajar
+صورتحال,soratehal
+سالے,saly
+بتاتی,btati
+کريں,kren
+دیتے,dete
+پہلے,pehle
+تھوڑا,thora
+برے,burey
+شاید,shayad
+بلوک,block11
+لینی,leni
+ت,t
+افواہ,afwa
+مے,me
+سلو,slow
+آجاؤ,ajao
+تہارے,tahare
+بولوں,bolo
+٠٠,0
+حافظ,hafiz
+يس,us
+بندے,bande
+ظلم,zulm
+تعریفیں,tarefen
+پہچانتے,pehchantay
+نزدیک,nazdeek
+بلوچ,baloch
+وقار,waqar
+بیگم,begum
+مٹا,mita
+شازیہ,shazia
+فقیروں,faqiron
+موقع,moqa
+مانتا,manta
+بجے,bje
+اصل,asal
+ٹورس,tauras
+ارشاد,arshad
+ٹھکراتے,thukrate
+بہروز,behroz
+ہوگی,hogi
+پڑنا,prna
+سيد,syed
+مچھ,much
+بويفرينڈ,boyfriend
+سو,so
+مفہوم,mafhoom
+بریک,breakup
+گود,godh
+هي,hykabi
+ٹارگٹ,target
+کراذي,crazy
+فول,fool
+خبری,khabrii
+سنانا,sunana
+آہو,aaho
+محتاج,mohtaj
+اللہ,allah
+دور,door
+حير,hear
+انٹريسٹ,interest
+ریفرنس,refrence
+عبدل,abdul
+کروائی,krwai
+شکوے,shikway
+ترمیم,tarmeem
+١٨,18
+جگنو,jugno
+نسلیں,naslain
+آسا,aasan
+جکا,juka
+میری,meri
+فیملی,femly
+سنہری,sunehri
+اتا,ata
+مہراب,mehrabpur
+چوما,chuma
+اچھا,acha
+واپس,wapis
+ہونی,honey
+الٹا,ulta
+لالہ,lala
+بسانا,basana
+زین,zain
+هیر,here
+سپیڈ,speed
+کبوتر,kabotar
+لیتا,leta
+5,5
+انشاء,insha
+پھیلانا,phelana
+مو,mobile
+رحم,rahm
+آسیب,aasaib
+انٹرسٹد,interested
+باتيں,baatein
+کن,kn
+فقروں,faqiron
+گھس,ghus
+وہاں,wahan
+غافل,ghafil
+کراؤ,karao
+کہتی,kahti
+لالی,lali
+سوگ,sog
+ٹھیک,thek
+حیدرآباد,hyd
+نوس,news
+ٹييسڈے,tuesday
+انڈا,anda
+الونرائیڈر,alone
+پانی,pani
+آنس,ans
+قوین,queen
+کھلی,kholi
+تھرسٹ,thirst
+لوڈ,load
+پہنانا,pehnana
+نوٹ,not
+مشتاق,mushtaq
+تصوير,tasweer
+رنگوں,rangon
+عبدللہ,abdullah
+پنج,panjtani
+انسان,insan
+برف,barf
+الجھنوں,uljhano
+تسلیم,tasleem
+فصیح,faseeh
+بخشی,bakhshi
+وبٹين,obtain
+بتاوں,btaon
+بیچنے,bechny
+فونز,funz
+کي,keke
+فون,ufone
+غرور,ghuroor
+ہستیاں,hastiyan
+تیار,tayar
+ہارنے,harnay
+تمھارے,tmhary
+ملتان,multan
+کھلتے,khiltay
+کھو,kho
+بنتا,banta
+جیسا,jaisa
+حواس,hawas
+سونگ,song
+فرمان,farman
+هاے,hi
+ارض,arz
+گول,gol
+طبعیت,tbiyt
+اسکو,usko
+بہاروں,bahaaron
+باربی,barbie
+دوٹ,idot
+دوسرا,doosra
+قصور,kasor
+ڈھونڈا,dhoonda
+ہیٹ,het
+آٹا,atawo
+دکھانے,dikhane
+ماضی,maazi
+چوڑیاں,chore
+چانس,chance
+رکھنا,rakhna
+ٹين,ten
+عیدین,aridian
+ورٹھ,worthless
+تم,tm
+کھلتا,khilta
+راذا,raza
+انداز,andaz
+سمرتی,smarty
+لمبی,lambi
+رضوان,rizwan
+لگی,lagi
+نینی,niny
+پشتون,pashtoonpa
+سایہ,saya
+اکسيپٹانس,acceptance
+بريسٹ,breast
+خوبی,khoobi
+گاؤں,gaoon
+لگاؤ,lagao
+دے,de
+مسالے,msaly
+مزاق,mazak
+بهای,bhai
+گي,ge
+حیرت,hyrat
+وادے,wade
+ادھار,udhar
+بکھری,bikhri
+میٹرو,mitro
+کبھی,kabhi
+جوتے,jotey
+گاڑی,gari
+روشنی,roshni
+يسياللي,usually
+بارش,barish
+کوکو,koko
+ٹشرٹ,t-shirt
+شاباش,shabash
+پیاری,pyari
+رومانٹک,romantic
+پحيسکال,physical
+حانڈ,hand
+کردو,krdo
+شیشے,sheeshay
+سيراوس,serious
+اد,add
+اللاہ,allah
+التجا,iltija
+پينسل,pencil
+سیس,sis
+الفاظ,alfaz
+تمی,time
+ٹھہر,thehre
+ڈیٹیل,details
+پروانہ,prwana
+ماس,mass
+نبھا,nibha
+خشبو,khushbo
+دلاسا,dilasa
+سیل,cel
+جھوٹ,jhoot
+کویٹا,quetta
+دماغ,dmagh
+چھور,chhor
+مخلص,mukhlis
+سوے,soe
+ٹایم,time
+دگنا,dugna
+جانتا,janta
+حسین,hussain
+هوی,hui
+سرخ,surkh
+انگلش,english
+یقین,yaqeen
+س,s
+پرت,prat
+سوپر,super
+تھکا,thaka
+گلاس,glass
+اتار,utar
+انہوں,unhon
+ساتھ,sath
+زمبابوے,zimb
+جاری,jari
+زرد,zard
+ضرور,zarur
+صوبے,sube
+ابانڈانس,abundance
+است,asit
+ڈانس,dance
+دھماکہ,dhamakha
+لکھوں,likhun
+پاشا,pasha
+خدا,khuda
+آدم,adam
+بٹھورو,bathoro
+نشے,nashe
+ترت,trat
+قسمیں,qasmein
+دیدار,didaar
+پویٹری,poetry
+نامہ,nama
+اطاعت,itaa'at
+لاگ,lag
+علمی,almi
+ستایا,sataya
+آف,of
+شعبان,shabnam
+طوفان,tufaan
+نوکر,naukar
+شور,shor
+ٹهندر,thunder
+مافیا,mafia
+ڈريس,dress
+کچ,kuch
+ڈھلتی,dhalti
+لگیں,lagain
+خاموش,khamosh
+انهیں,inhain
+بیان,bayan
+وني,one
+جامی,jami
+کوک,quick
+چل,chal
+سامسنگ,samsung
+قادری,qaadri
+طالبان,taliban
+کنڈی,kundi
+ريسي,raise
+اشک,ashk
+کاٹو,kato
+پڑی,pari
+معني,manee
+گالیاں,galian
+ج,jaan
+طرفدار,tarafdar
+واقعی,waqai
+سکی,saki
+پروبليم,problem
+فوار,four
+حوصلے,hosly
+سکے,sake
+بسر,basr
+اذان,azaan
+جینے,jeene
+کوم,com
+کھلا,khila
+سویٹ,sweet
+اکثر,aksar
+زارا,zara
+پانے,pane
+پھینکتے,phenkte
+چوپال,chopaal
+ٹوينٹي,twenty
+بجا,bja
+غاصب,ghasib
+اٹ,it
+زون,czone
+دوا,dua
+تلاوت,talawt
+نیہ,ne
+ليگل,legal
+سات,saat
+ساڈ,sad
+ورلڈ,world
+سمجھتی,samajhti
+آڑ,aar
+بھرا,bhara
+مرنا,mrna
+سٹوڈنٹس,students
+روف,roof
+میم,mem
+اپرل,april
+هیں,hain
+بکھرا,bikhra
+پیام,peyam
+کنڈنيس,kindness
+یهاں,yaha
+والو,walo
+ھی,hi
+سندھی,sindhi
+آنکھیں,ankhain
+بهر,bhar
+روٹي,roti
+بدنام,badnam
+حيلپ,help
+ييللو,yellow
+انہیں,unhen
+میٹنگ,meetingpoint
+مک,mk
+سگن,sign
+يکيال,equal
+طوطے,totay
+دونو,dono
+نگاہوں,nigahon
+ٹرک,truck
+مان,maan
+ریکویسٹ,request
+اماذنگ,amazing
+نيپال,nepal
+ٹوموررو,tomorrow
+جو,jo
+فورم,form
+پنڈی,pendi
+احترام,ehataram
+اکرام,ikram
+لایوو,live
+جاگتا,jagta
+18,18
+آسمان,asman
+ہورہا,horaha
+زویا,zoya
+کیسا,kesa
+ہادی,hadi
+جھل,jhal
+کھانا,khana
+بور,bor
+لوٹ,lot
+حيرٹ,heart
+بدولت,badulatwarna
+پہچان,pehchaan
+اتر,utar
+پڑھ,parh
+نصیب,naseeb
+شیٹ,sheet
+سٹانڈارڈ,standard
+ہماری,hamari
+اچار,achar
+مسٹری,mystery
+هوتی,hoti
+اپکا,apka
+کار,car
+ڈرنک,drink
+٣٠,30
+جلیں,jalen
+شاہ,shah
+بانڈ,bandh
+امر,umar
+گيارانٹر,guarantor
+راتیں,raatain
+بھرپور,bahrpoor
+رکھی,rakhi
+پلکیں,palkain
+ریاض,riazs
+روتھ,roth
+موجودہ,mojooda
+کرا,kara
+انار,anarkali
+ساٹھ,saath
+ريٹيرن,return
+ظرف,zarfk
+بولے,bolay
+اوج,arooj
+ماضي,mazee
+سایا,sayanafrat
+ولی,waliullah
+توقیر,toqeer
+ميحامماڈ,muhammad
+بلوا,bulwaon
+خلوت,khalwat
+چند,chand
+لالے,laale
+بہی,b
+سپنا,sapna
+اطمینان,itminan
+جاؤ,jao
+شب,shab
+اررے,array
+نیک,nick
+کمالیہ,kamalia
+رینی,rainy
+جھولے,jhooly
+شیوا,shewa
+انس,ans
+ديکھ,dekh
+ثبوت,sabot
+لاریب,lareb63
+کوٹا,quota
+حسان,husan
+خان,khan
+چلتے,chalte
+ضبط,zabt
+هوا,hua
+شکیل,shakil
+دخل,dakhl
+اپنا,apna
+آییں,aain
+سینا,cenashahzadi
+آپ,ap
+جلد,jaldi
+تيسرا,teesra
+وبا,oba
+انسٹانٹ,instant
+راز,raz
+ہنسی,hansi
+ڈارلنگ,darling
+رکھتا,rakhta
+اینا,aeyna1
+ہرا,hera
+ڈھل,dhal
+جھکا,jhuka
+آو,ao
+احمد,ahmed
+نانا,nana
+انصاف,insaf
+سانول,sanwal
+خوشبو,khushbo
+دروازا,darwaza
+نشتر,nishter
+جانب,janib'e'manzil
+مغز,maghz
+آے,ae
+اسلامیان,islamianstars
+اکبر,akbar
+کاٹوں,kanto
+مورننگ,morning
+کھولے,chole
+نيڈ,need
+دھماکا,dhamaka
+٢٤,24
+همنشیں,hm
+اندازہ,andaza
+رين,rain
+لا,la
+پاوں,pao
+ڈالا,dala
+خالی,khali
+بندگی,bandgi
+بندوں,bndon
+حوار,hour
+وعلیکم,w
+آسان,aasan
+بہل,behl
+ايگيسٹ,august
+پکا,paka
+ڈيسيمبير,december
+آؤ,ao
+میٹھا,metha
+قرآن,quran
+مزدوری,mazduri
+کھویا,khoya
+شی,shi
+الجھ,ulajh
+هنی,honey
+نومن,noman
+سستی,sasti
+دانیال,danial
+کھلونا,khilona
+اسامہ,usama
+انکا,unka
+کيلڈ,could
+کام,kam
+ڈاریکٹ,direct
+مانگ,maang
+افق,ufaq
+گناہ,gunah
+الٹی,ulti
+نے,ne
+شم,sham
+لانچ,lanch
+میرٹ,meri
+جنکو,jinko
+دانی,dani
+فراق,firaq1
+ہمیشہ,hamesha
+زلفیں,zulfain
+پاو,pao
+اسپيکٹ,aspect
+شرجیل,sharjel
+کروڈ,crowd
+کروگے,kro
+جانباز,janbaz32
+دیکھتا,dekhta
+سویا,soya
+پھیر,pher
+نمازوں,nimazo
+دوں,doon
+واسطے,wastay
+دود,dod
+راؤ,rao
+فیری,fairy
+پؤیٹری,poetry
+ترمزی,tirmizi
+کھلاتے,khilate
+وفٹين,often
+بچا,bacha
+لوسي,loose
+ملا,mila
+یارو,yaro
+سبحان,subhan
+فروم,from
+کے,k
+سٹوڈنٹ,student
+معروف,masroof
+ٹارزن,tarzan
+هوبی,hobby
+اتاری,attari
+لمحے,lamhe
+کریٹ,create
+کانا,kana
+جوتیوں,jotioon
+بابو,babu
+بھیڑ,bheer
+٥,5
+بوي,boy
+زوہیب,zuhaib
+شان,shan
+کمی,kami
+سمایل,smile
+آپکا,apka
+واسی,wasi
+سلیمان,sulaiman
+خاک,khak
+جیتے,jeete
+لگان,lga
+مناسب,munasib
+سندھو,sindhu
+ہتھیلی,hatheli
+ڈالو,dalo
+ہوگا,hoga
+کتنی,kitni
+داغ,dagh
+انجوائے,enjoy
+سیتا,seet
+ڈیپارٹمنٹ,department
+بتلا,batla
+رواج,rawaj
+پالتو,paltu
+ثاقب,saqib
+دلا,dila
+رچ,rechilli
+ڈوبی,dubi
+کمل,kml3
+روانی,rawani
+اپنوں,apno
+ہمارا,hamara
+وابستگی,wabastgi
+رکهتا,rakhta
+کچہ,kuch
+پاؤ,paaon
+ڈیپ,deepfriends
+ٹيپي,type
+وک,ok
+هون,hon
+کھول,khol
+لگتے,lagte
+بناتا,banata
+فیل,fail
+پیٹ,pait
+آمنہ,amna
+جھانک,jhank
+ریسٹ,rest
+فاین,fine
+میر,meri
+اسی,usi
+تاریکی,tareeki
+تعلق,taluq
+نفس,nafs
+کہاں,kahan
+امی,ami
+کسنے,kisne
+کرب,krb
+تولل,toll
+انفرادی,infaradi
+روش,rosh
+عقیل,aqeel
+جھگڑا,jahgra
+پيرپوسي,purpose
+واک,awake
+اتے,ate
+چلتا,chulta
+کشمش,kishmish
+فدا,fida
+چاہت,chahat
+سوگوار,sogawar
+دیکھیں,deikhen
+انشاللہ,insha
+امِ,um
+لیں,len
+بادشاہ,badshah
+ناچ,naach
+موسم,mosam
+اے,e
+مرحبا,marhaba
+چلو,chalo
+انوکھا,anokha
+سکول,school
+وحید,waheed
+جان,jan
+دوران,doraan
+بی,b
+برتھڈے,birthday
+بدلی,badli
+ہجر,hijr
+سچے,suche
+ڈیر,dear
+ہرو,hru
+کيوں,keyo
+وارد,warid
+وے,way
+بولبو,bolo
+بڑا,bara
+سمس,sms
+ماموں,mamu
+ميمٹاذ,mumtaz
+شرلی,shurli
+لاسٹ,last
+اشارے,isharay
+بھیجوں,bhejoon
+٣١,31
+حيرو,hero
+ورڈير,order
+یخ,yakh
+دنگ,dangr
+سویاں,soyen
+پہلا,pehla
+سهارا,sahara
+ڈاکو,daku
+کرل,kral
+گناہوں,gunahon
+رقیسٹ,request
+مسلمانوں,musalmano
+کاج,kaj
+تھک,thak
+مما,mama
+لفي,life
+ھمیں,hamain
+اسلامی,islami
+دکھو,dekho
+امین,ameendil007
+ملاح,malahhhhhh
+اند,and
+جیا,jia
+فير,fear
+تمیز,tmez
+بھن,behn
+عرصہ,arsa
+سیدھا,seeda
+ہاتھی,hathi
+کامیابی,kamyabi
+شیدائی,shedai
+کھلونوں,khilonon
+جھگڑے,jhagre
+گیا,gya
+ا,a
+فریاد,faryad
+تا,ta
+دست,dost
+لکین,lekin
+راہی,rahi
+جہاد,jahad
+مومن,momin
+بنگلہ,bngla
+مارکيٹ,market
+ھوتی,hoti
+خاص,khas
+یت,it
+ساگر,sagar
+گلوم,gloom
+عطا,atta
+کرٹ,karta
+مارنا,marna
+تھو,tho
+بلوم,bloom
+جانا,jana
+جلتے,jalte
+چورا,chura
+بگاڑا,bagara
+کھاتا,khata
+بم,bm
+کھونا,khona
+منصوبه,mansooba
+لحاظ,lehaz
+پليسير,pleasure
+چوٹی,choti
+رویا,roya
+پلا,pila
+تولیہ,tolia
+عشاء,ishaa
+ڈالے,dalay
+انجونے,enjoy
+ارگيمنٹ,argument
+راہیں,rahen
+سنو,suno
+سردی,sardi
+قرب,qurb
+زمیں,zmen
+بوڑھا,boorrha
+انحابٹڈ,inhabited
+وارک,warkatal
+ملتی,milti
+گناہگار,gunahgar
+آرام,aram
+گندی,gandi
+گھڑی,ghari
+بغداد,baghdad
+سٹوني,stone
+سکھانا,sikhana
+نامعلوم,namalom
+تپیش,tapish
+کوکلي,quickly
+الطاف,altaf
+موڑ,morr
+سورری,sorry
+زلفوں,zulfon
+همیں,hme
+اٹھانے,uthane
+گ,g
+نکالو,nikalo
+عدالت,adalat
+موٹی,moti
+آسک,ask
+گردن,grdin
+ڈمپ,dump
+جسموں,jismoon
+رونے,ronay
+جاگتے,jagte
+فاحم,fahim
+خد,khud
+شکایات,shikayat
+آنسو,aansu
+ہیلپ,help
+تقدیریں,taqdeerain
+فرحاں,farhan
+تتلیاں,titliyan
+بوريڈ,bored
+سکنا,sakna
+خدیجہ,khadija
+حامد,hamid
+ہونے,hone
+کافروں,kafro
+ميشارراف,musharraf
+سکھ,sekh
+دید,deed
+ھوٹ,hot
+زیب,zaib143
+پیاروں,pyaron
+مکھن,makhn
+حنا,hina
+ریلی,rely
+نکلی,nikli
+صورت,surat
+پاکستان,pakistan
+لیجا,leja
+انقلاب,inqalaab
+ينڈ,end
+چور,choor
+انمول,anmol
+حضور,hazoor
+ڈھال,dhal
+بہترین,behtaren
+بکھرنے,bikhrne
+تنولی,tanoli
+سمجھا,samjha
+پانا,pana
+بہو,baho
+فوزیہ,fozia
+غلطی,galti
+جدوں,jadon
+زیدی,zaidi
+کتاب,kitab
+سمیرا,sumaira
+تعداد,tadad
+پاسا,pasa
+بلانک,blank
+فاکي,fake
+زندگی,zindagi
+سينا,seena
+انت,ent
+روکے,roky
+برا,bura
+جاگے,jagaey
+فتوحات,fatohat
+رپلی,reply
+کاری,karti
+ہار,har
+ها,ha
+ہستی,hasti
+فیصلے,fesle
+شکایت,shikayat
+باپ,baap
+فرانک,frank
+بدلا,badla
+طوطی,toti
+گنا,guna
+جروا,jurwa
+مانگتے,mangtay
+بکی,bki
+شعیب,shoaib
+آوے,away
+دھل,dhal
+آگ,aag
+خلق,khulq
+رقیب,raqeeb
+مونگ,mong
+١٧٠٠,1700
+لعنتی,lanti
+کفر,kufr
+فراز,faraz
+ناخن,nakhun
+پرندوں,parindon
+تنو,teno
+جنگل,jungle
+پنو,pnuawan2310
+چکر,chakr
+مرغی,murghi
+چیتا,cheeta
+پیرو,piaro
+اپریل,april
+مجاہد,mujahid
+دیجیئے,dijia
+فيبرياري,february
+ليس,less
+چيز,chez
+گولڈن,goldn
+جیس,jese
+ابرار,ibrar
+نخرے,nakhre
+مرے,mre
+بھیجیں,bhaijan
+دلال,dalal
+وارث,waris
+ملنے,milne
+پیارے,pyare
+بلوڈ,blood
+بالڈ,bald
+چورنگی,chorangi
+ينيمي,enemy
+باتیں,baten
+جھیل,jheel
+فوت,footpath
+کوڑے,korray
+ک,k
+مسافت,musafat
+پیچے,pechy
+سلينس,silence
+ثواب,swab
+بھلایا,bhulaya
+چیر,cheer
+ڈریم,dream
+ارٹ,art
+مواقع,mawaqay
+نمب,numb
+حاررس,harris
+احتجاج,ehtjaj
+نہا,naha
+لاش,lash
+حوکيي,hockey
+لابی,labi
+فرما,farma
+فری,free
+گدھا,gadha
+اک,ik
+بيٹھ,baith
+آتی,ati
+پڑھتی,parhti
+ساتھی,sathi
+سلگتے,sulagte
+جنہوں,jinho
+بھیجتی,bheje
+کیسے,kese
+سونی,soni
+ظرور,zaror
+تربیت,trbiat
+فوٹ,foot
+فنک,funkar
+کرتے,karte
+سجدوں,sajdon
+لگا,laga
+کوا,kawa
+آزمانے,aazmane
+ہوٹل,hotel
+ہیرے,heere
+مایا,maya
+بیوی,biwi
+سوک,sok
+قاسی,qasi
+خیریت,kheriyat
+بڑوں,baron
+پاکی,paki
+انکی,unki
+گپتا,gupta
+ہوگیا,hogya
+وام,wam
+پیروں,pairon
+والی,wali
+ساقی,saqi
+مرتا,marte
+فانی,fani
+کرک,circket
+زمانے,zamane
+پھرتے,phirtay
+آباؤ,abao
+پینے,peeney
+ثابت,sabit
+سعودی,saudi
+اسکی,uski
+تاکے,take
+زما,zama
+پتا,pata
+لات,lath
+درس,darse
+دیوار,diwar
+مسکین,maskean
+رہتی,rehti
+طریقوں,tariko
+حوصلوں,hosloon
+بھا,bha
+زبیدہ,zubaida
+شرت,shart
+سفیان,sufyan
+نور,noor
+اپیل,appiel
+سٹی,city
+بجھی,bujhi
+یادِ,yaad
+بیل,bell
+حبس,habs
+لامب,lamb
+کونسا,konsa
+گیسٹ,guest
+موبایل,mobile
+آن,on
+ففٹي,fifty
+سيپٹيمبير,september
+شیا,shea
+علینہ,alina
+ڈیڈی,dydy
+کوفی,cofi
+پھر,phir
+پرانی,purani
+منڈا,mundaø
+ڈنگر,dngr
+ٹھکانہ,thikana
+احتساب,ahtisab
+لڑے,laray
+بہ,b
+پیچھا,peecha
+خالد,khalid
+ليرن,learn
+ڈوڈ,dod
+رکھتے,rakhtay
+جاگو,jagoo
+مصروفیت,masroofiyat
+صبا,saba
+لگایا,lagaya
+لفٹ,lift
+بچ,bach
+بييٹفيل,beautiful
+پکڑو,pakro
+ديتا,deta
+کرنير,corner
+پاکستانیوں,pakistanio
+منا,mana
+پلاسٹک,plastic
+پروں,paron
+خود,khud
+پوچھو,pocho
+لوٹا,lauta
+ٹوٹکا,totka
+سنده,sindh
+زیادہ,ziada
+امامت,imamat
+صدا,sada
+کیوں,q
+مین,main
+کونٹینو,continue
+پتھروں,pathron
+کرونگا,karo
+ہول,whole
+سمجھے,smjhe
+پرنسس,princes
+لڑنا,lrna
+زونگ,zong
+عین,ain
+رہوگے,rhoge
+بھلا,bhula
+ملاتا,milata
+توڑ,tor
+چوم,choom
+آزماتے,aazmaty
+وربٹ,orbit
+چابی,chbi
+بابي,baby
+گی,gi
+الون,alone
+جانو,jano
+اڈمرل,admiral
+بارشوں,barishon
+آءے,aye
+آغوش,aghosh
+گزارا,guzara
+لفی,life
+لگتا,lagta
+ریپلائ,reply
+جواب,jawab
+مہنگا,mehnga
+ھوتے,hote
+بھیج,bhej
+گزارنا,guzaarna
+جگانے,jaganay
+دراصل,darasal
+تها,tha
+لوٹس,lots
+ماسی,masi
+ملتا,milta
+احميڈ,ahmed
+گلے,galay
+دونے,donay
+معذرت,mazrat
+بہروں,behron
+بیٹھا,betha
+سمجھی,smjhi
+ہٹنے,hatne
+بالٹی,balti
+مسکرانے,muskrany
+ہ,ha
+بغیر,bagair
+مارٹ,smartpoetry
+پیدا,peda
+هوٹ,hot
+روک,rok
+شرکت,sharkit
+کھینچی,khainchta
+مقصود,maqsood
+ناسمجھ,na
+رخ,rukh
+تاج,taaj
+خیرات,khaerat
+ما,ma
+ينٹر,enter
+خوش,khush
+مجھے,mujhe
+نبھانے,nibhane
+گزری,guzrifaraz
+امیدیں,umeedein
+یادوں,yadon
+کرنے,krne
+رکے,rukay
+بچنا,bachna
+بھیگی,bheegi
+سرے,sare
+بچیاں,bachiyan
+ارٹفکال,artificial
+کھانے,khane
+کھلونے,khilonay
+افسردہ,afsorda
+مار,mar
+باتوں,baton
+انگریز,engrz
+پڑھا,parha
+آلو,aaloo
+ببلو,babloo
+نہایت,nehayet
+فاحاڈ,fahad
+خر,khr
+کافی,kafi
+گرا,gira
+ہاللو,hello
+درود,darood
+ناسور,nasoorjazb
+افسوس,afsos
+ور,or
+کھيل,khel
+دی,di
+رور,ror
+کامران,kamran
+ہیر,here
+جسے,jisay
+آغا,agha
+لاج,laj
+سوری,sory
+گرنے,girne
+شہزادہ,shahzada
+جھوم,jhom
+ذونگ,zong
+جذباتی,jazbati
+لکھ,likh
+حے,hai
+پويم,poem
+اونی,aouni
+دھیرے,dheere
+غریبوں,gharibon
+قیام,kiam
+آریان,areyan
+جاے,jaye
+تھی,thi
+گهڑ,ghar
+بريڈ,bread
+شٹ,shut
+عرض,arz
+اندھر,andr
+کشتی,kashti
+زہرا,zahra
+تمہیں,tumhe
+ایسے,aisay
+جوک,joke
+تھوڑ,thori
+سٹرونگ,strong
+شاہی,shahi
+ویلکیم,welcome
+حالت,halat
+سوچنے,sochne
+اسسينسون,ascension
+آزما,aazma
+حکومت,hkomt
+سوچتی,sochti
+ویٹ,wait
+تھنکس,thanks
+شرک,shrk
+وں,un
+شک,shak
+سٹي,city
+ٹو,to
+ہونٹ,hont
+گرد,grd
+ٹپس,tips
+کلمات,kalmat
+کیں,q
+رونا,rona
+فلمیں,flmn
+جوس,juice
+تکلیف,takleef
+ليں,lain
+بولنا,bolna
+بکنے,biknay
+نکوٹین,nicotinesms
+پہلی,pehli
+والد,walid
+خبروں,khabron
+رنگ,rang
+ومار,omar
+فريڈوم,freedom
+اجنبی,ajnabi
+کرواتا,karwata
+سیریس,seri0us
+تبدیلیاں,tabdeeliyan
+عزت,izat
+حوا,hawa
+رکھا,rakha
+مستونگ,mastung
+گنورانٹ,ignorant
+کلاس,clas
+پروپيرٹي,property
+دبی,dubai
+آنٹ,aunt
+باسي,base
+هی,hi
+سیرت,seerat
+ادو,idot
+ہوتے,hote
+کباب,kabab's
+گرفتار,griftar
+دانس,dance
+چلاؤں,chlaon
+دستور,dstoor
+مینا,mena£=siom£
+دیش,desh
+فورڈ,frwrd
+راچ,rich
+بٹھاو,bithao
+یومی,yummi
+بریکر,breaker
+شوي,shoe
+پھٹ,phat
+قاد,qadir
+افتخار,iftakhar
+جنناح,jinnah
+جما,jama
+محال,mohal
+سليپ,sleep
+بنگو,bingoo
+ٹورنامنٹ,tournament
+مانو,mano
+رنگین,rngin
+بنگالی,bangali
+روپے,rupy
+راستہ,rasta
+هوں,hun
+دوستی,dosti
+ہیلو,hello
+مہا,maha
+مجبورا,majburam
+انڈير,under
+ساته,sath
+ریپلائی,reply
+کہنا,kehna
+آسمانی,aasmani
+پناہ,panah
+ہنسنا,hansna
+خط,khat
+تيز,tez
+فات,fat
+روہی,rohi
+بوریت,boryat
+ندا,nida
+سوچنا,sochna
+مکھی,makhi
+کاظمی,kazmi
+مزا,maza
+احساسات,ihsasat
+وٹس,wts
+بڑھ,barh
+حاجی,haji
+موٹو,motu
+اککور,acquire
+حيڈ,head
+پيريلي,purely
+ریڈ,reed
+جانور,janwar
+وارسا,warsa
+تھے,thay
+ہیڈ,head
+ہونٹوں,honton
+چکے,chuke
+سگے,sege
+اسدولاه,asadullah
+کربلا,karbala
+شفقت,shafqat
+آل,all
+ہوجاتا,hojata
+اداسی,udasi
+جام,jaam
+فیضان,faizan
+11,11
+انصاری,ansariboys
+انجو,anjo
+لونگا,lungagirl
+دربان,darbanaisey
+بانو,baano
+واہ,wah
+مغفرت,maghfrat
+اپنانے,apnanay
+چرچا,charcha
+احساس,ehsas
+افغان,afghan
+ناپ,nap
+بھأي,bhai
+انک,ink
+محرومی,mehroomi
+تھوڑے,thore
+وسیم,wasim
+لفظ,lafz
+جلانے,jalanay
+عراقی,iraaqi
+مشکل,mushkil
+سام,sam
+دیکها,deka
+کاشان,okkashan
+صارف,user
+بلکه,blky
+ترازو,tarazo
+بکھرے,bikhre
+کسا,coca
+کاہے,kahey
+وچ,kuch
+ہاۓ,hi
+سجا,saja
+افضل,afzal
+انڈيرنيتھ,underneath
+رابطہ,rabta
+دکھ,dukh
+موحامماڈ,mohammad
+قریشی,qureshi
+اسکول,iskool
+موڈ,mood
+ميری,meri
+زبان,zuban
+ذلیل,zaleel
+ھنی,honey
+بند,band
+رازی,razi4u
+نایس,nice
+فلم,film
+ماری,marikese
+کوڈ,code
+سختی,sakhti
+نال,nal
+بھائی,bhai
+تکتے,tktey
+ریپلاۓ,reply
+جیسے,jese
+بای,bi
+سچا,sacha
+کانچ,kaanch
+۵,5
+قاتل,qatil
+زوق,zowq
+سنگا,snga
+اسلام,assalam
+سما,samaa
+آنگن,angan
+فضیل,fuzail
+آمر,aamir
+ریل,real
+کول,cool
+سٹوري,story
+روٹی,roti
+ليتے,laitay
+گفٹ,gift
+کی,ki
+روز,roz
+تؤ,to
+چاہا,chaha
+دوسری,dosri
+رہا,raha
+ذرا,zra
+لانا,lana
+کیتا,keeta
+راستے,rastay
+گجرانوالہ,gujranwala
+2,2
+فريش,fresh
+گھنٹے,ghante
+جانتی,janti
+رومان,romaan
+ستارے,sitare
+شہزاد,shahzad
+بنای,bnai
+پیروی,pairwi
+سجایا,sajaya
+پروگرامر,programmer
+چیزیں,cheezen
+موحامميڈ,mohammed
+ٹاگ,tag
+پیسے,paise
+آوازیں,awazen
+پاک,pak
+آفر,ofer
+چڑھاؤ,charhao
+آرمی,army
+اپپيل,appeal
+کرواؤں,krwao
+چاۓ,chay
+معصومیت,masoomiyat
+بڑھا,barha
+لے,le
+ہمیش,hamesha
+دوری,doori
+دشمن,dushman
+چین,chain
+ابتو,ab
+ھو,ho
+تعرف,taraf
+ای,i
+چاہی,chahye
+سمجھدار,smjhdar
+پيرسون,person
+عقل,aqal
+بتاؤ,btao
+ہوجا,hoja
+اسس,is
+مغرب,mghrb
+٢٠٠,200
+زیر,zer
+خوب,khoob
+ہمارے,hamare
+واٹس,whats
+ہوشی,khoshi
+سرمایا,sarmaya'e
+اچھی,achi
+شيٹ,shet
+چاٹ,chat
+امید,umeed
+لوند,londy
+جنوں,junoon
+برستی,barasti
+افراد,afrad
+رخی,rukhi
+منی,mani
+الگ,alag
+فضیلت,fazeelat
+اکڑ,iccr
+پلانيٹ,planet
+تھا,tha
+روکیں,rokyn
+خودکشی,khudkushi
+پلايير,player
+فش,fish
+بستا,basta
+یعنی,yani
+بھوک,bhok
+عراق,iraq
+رفتار,raftaar
+اندھیروں,andheron
+پڑو,prho
+پورے,pore
+ٹرسٹ,trust
+حقیر,haqeer
+تارا,taraadub
+ہمیں,humain
+سراج,siraj
+شیرو,sherwani
+آرہا,araha
+چکی,chuki
+سینٹینس,sentence
+سنگھ,singh
+دہاڑے,dihaaray
+جرا,jera
+لٹا,lutai
+اداکار,adakaar
+پینٹ,paint
+طبیعت,tabiyat
+تیری,teri
+سجدے,sajday
+سیٹ,set
+اپس,apas
+اشاره,ishaara
+مری,meri
+نیے,naye
+باس,bas
+آنسر,ans
+ارسلان,arsalan
+شرافت,shrafat
+بنتی,banti
+بھرتا,bharta
+الکوحلٹارزن,alcohol
+ميں,main
+لینے,lene
+ماڈ,mad
+جمعہ,juma
+آداب,aadaab
+افٹر,after
+کویل,koyal
+خاندان,khandan
+جوڑ,jork
+پنجرے,pinjray
+بٹھانا,bithana3
+شہادت,shahadat
+شکور,shakoor
+رسمی,rasmi
+کين,keen
+تیرے,tere
+رحمان,rehman
+ہوتا,hota
+زینب,zainab
+ارباز,arbaz20
+پیتا,kpeeta
+تجھے,tujhe
+حاضر,hazir
+حیدر,hydrabad
+قندیل,qandeel
+الحمد,alhamdolillah
+منانے,manane
+انگلیوں,ungliyon
+اکر,iccr
+٢٠,20
+رہنا,rehna
+بادام,badaam
+گلیاں,galia
+پروگراممير,programmer
+وانٹ,want
+هاف,half
+تھیں,thin
+بيرن,burn
+اقبال,iqbal
+ڈور,door
+باته,bathroom
+بروڈر,bro
+لڑکیوں,lrkion
+بخیر,bakhair
+سرداروں,sardaron
+گيل,gul
+لوگوں,logon
+لکي,like
+بناؤ,bnao
+گوٹ,got
+سوں,sona
+عذاب,azab
+ارشد,arshad
+مي,my
+دین,deen
+مزار,mazar
+پھاڑ,phar
+چاہنے,chahne
+ٹوو,two
+٢,2
+حور,hoor
+غریب,ghareeb
+بدلے,badlay
+عوام,awam
+رحمانہ,rehmana
+ابو,abu
+تنوع,tenu
+آسی,aasi
+قبریں,qbren
+سمت,simt
+بولو,bolo
+سٹڈی,stdy
+لکھنا,likhna
+بدلتی,badalti
+پڑھنا,parhna
+ڈوب,doob
+خطرناک,khatarnak
+گريٹ,great
+سمجھ,smj
+توہین,toheen
+٣,3
+طالبعلم,talabilm
+شق,shuk
+۱۱,11pmparya
+دبا,dba
+ہوں,hun
+آفریدی,afridi
+بسیں,basen
+کارڈ,card
+علینا,alina
+سچی,sachi
+جیسی,jesi
+امریکہ,america
+نیلی,neeli302
+نواب,nawab
+چپ,chup
+هیلپ,help
+دشت,dasht
+کیونکہ,q
+گردی,gardi
+سدا,sada
+دفا,dafa
+گلو,glow
+آؤں,aao
+کردی,krdi
+لڑکیاں,larkian
+دشمنی,dushmane
+ولڈ,old
+جوب,job
+سینڈ,send
+فلاگ,flag
+٢٥٠,250
+چوٹ,chot
+ناصر,nasir
+پریت,preet
+دھوکا,dhoka
+تول,tol
+ميز,maiz
+ھوتا,hota
+پحلوسوپحير,philosopher
+شیاء,shia
+نڈھال,nidhal
+ييي,eye
+گووڈ,good
+جونی,jouni
+زرداری,zardari
+کشمکش,kashmakash
+الکوہو,alcohol
+ہیں,hain
+جسٹ,just
+لادن,laden
+مخاطب,mukhatib
+کرکے,karke
+روڈ,road
+خلا,khula
+علاوہ,ilawa
+لوگ,log
+خوف,khof
+جگایا,jagaya
+بار,bar
+مانی,mani
+درجے,darje
+کامياب,kamyaab
+جلیل,jalil10
+اجالے,ujaly
+کھانسی,khaansi
+گھر,ghar
+لڑی,lari
+میمبر,membr
+کہتے,kehte
+مٹتے,mittay
+پڑتا,parta
+سنان,sunan
+امیدوں,umeedon
+سوا,siwa
+چیتے,cheetiye
+سپرد,spurd
+دوست,dost
+ہاہاہا,hahaha
+کیسی,kesi
+مہاجر,mahajir
+قیمت,kimat
+تیسری,kotesri
+ماجد,majid
+فوللو,follow
+کمان,kaman
+منسوب,mansoobtum
+جانِ,jan
+حسیب,haseeb
+مٹھاس,mithasjab
+سیلاب,selab
+کھیلتا,kheilta
+واسطہ,wasta
+بلوچی,balochi
+عجب,ajab
+چلی,chali
+ہلچل,halchal
+١٥,15
+جیتا,jeeta
+پختو,pukhto
+ادھورا,adhoraø¤!œ£ent
+ڈیلی,daily
+خواہش,khwahish
+دادا,dada
+کون,kon
+نمی,nami
+ڈوینگ,doing
+ماہیا,mahiyarab
+ثنا,sana
+موج,moj
+بنایا,bnaya
+حیات,hyat
+تجھ,tujh
+لیموں,limu
+اسلامیک,islamic
+ٹرپ,trip
+خاموشی,khamoshi
+دہی,dehe
+موبلے,mobile
+تروته,truth
+ملاقات,mulaqat
+وفات,wafat
+پھیلاتا,phelata
+تہ,tha
+اجمل,ajmalmmdaslam
+بھائ,bhai
+سویرا,sawera
+سلاپ,slap
+8,8
+کٹوبير,october
+مٹانا,mitana
+گوڈ,god
+ابھرنے,ubharnay
+یوٹ,your
+پرنس,prince
+رے,re
+ملٹی,multitecsawariya
+سونو,sonu
+جاز,jazzy
+بها,baha
+ملاوٹ,milawt
+تنگ,tang
+خوشیوں,khushiyon
+ڈے,de
+خطرے,khatre
+جلنے,jlne
+بٹے,btain
+لو,lo
+گیں,gain
+کال,kal
+ملی,mili
+زنا,zana
+ٹالک,talkshalk
+آپکو,apko
+جوکس,jokes
+تخت,takht
+سکرین,scren
+٥٠٠,500
+نيٹ,net
+نیازی,niazi011
+جانی,jani
+اسيمبلي,assembly
+بیٹھی,bethy
+چی,che
+پوچھا,pocha
+اپ,ap
+روشن,roshan
+برين,brain
+سکپ,skip
+جینا,jeena
+جلدی,jaldi
+کھیل,khel
+آلسو,also
+حونور,honor
+وحشت,wehshat
+دوسروں,dosaro
+راو,raw
+ظالم,zalim
+جيني,june
+صابر,sabr
+اقرا,iqra
+سٹرنگز,stringzoye
+صدقے,sadqay
+رسیلی,raseli
+مانا,mana
+پرانے,puranay
+کیمسٹری,chemistryblogsadaf
+پیش,paish
+بلڈنگ,bulding
+پﻻسٹک,plastic
+مومنین,momineen
+رينٹ,rent
+دوستوں,dosto
+پڑھتا,parhta
+سامی,sami
+فیصلہ,faisla
+مانتے,mante
+کردگی,krdgi
+ہونگے,honge
+بہتا,behta
+طوطا,tota
+بھیا,bhayia
+ادھوری,adhoori
+لرزتے,larazte
+بادل,badal
+خراب,kharab
+یونس,younis
+بهائی,bhai
+گو,go
+راہ,raah
+میشا,mishaaao
+بہانے,bahane
+اگنی,agni
+رهے,rahe
+شرمایا,sharmaya
+ذہین,zahen
+ييس,yes
+اجیرن,ajheeran
+کالو,kalo
+پیٹی,piti
+کیوںکہ,kiun
+لگاتار,lagatar
+نون,non
+سوم,swim
+مناہل,mnahil
+جوگی,jaogi
+حلیم,haleem
+مضبوط,mazboot
+بندا,banda
+فاسٹ,fast
+سلک,silk
+سامنے,samne
+سرور,suroor
+ريببش,rubbish
+الله,allah
+تالو,taulo
+مثلا,masla
+پریتی,prety
+پانڈا,panda
+پتلون,patloon
+فصل,faslegul
+ڈوبنے,doobnay
+سٹال,stall
+کپي,copy
+بہاو,bahao
+تھامے,thamay
+پٹي,pity
+کونسے,konse
+لکھنے,likhne
+ورق,warq
+جین,jain
+چارسو,charsiokoi
+راشد,rashiid
+ریپ,rep
+سٹوپ,stop
+لکھتی,likhti
+رابعہ,rabia
+دریاؤں,daryauon
+سزا,saza
+عزیز,aziz
+جاسم,jasmin
+هاں,han
+کرنی,krni
+١٧,17
+سٹارٹ,start
+سٹوپڈ,stupid
+لنچ,lunch
+وہاب,wahab
+حفیظ,hafeez
+اسا,isa
+بھوکا,kabhokatha
+ٹير,tyre
+چکنی,chiknikuriraja
+زندگانی,zindagane
+پورا,pora
+ٹرينک,trunk
+سنک,snkk
+ادیا,idea
+نازش,nazish
+راجپوت,rajput
+ھا,hahaha
+ي,ye
+منہاس,minhas
+پریس,prince
+مپرسونمنٹ,imprisonment
+انٹروڈکشن,intro
+کاٹ,kaat
+مسیحا,maseeha
+جاپان,japan
+مرد,mard
+سبا,saba
+انشا,insha
+وارن,warn
+رہتے,rehte
+نبھایا,nibhaya
+گرل,girl
+بروے,brwe
+غلطیوں,galtiob
+الکوحل,alcoholnahi
+دير,dair
+شریعت,shariyat
+اخوند,akhund
+بیماری,bimaari
+آنکھوں,ankhon
+محشر,mehshar
+پرواہ,parwah
+اتوار,itwaar
+چاہوں,chahon
+اسرار,israr
+پیڈ,pidda
+منميم,minimum
+پوچھ,poch
+اڑا,ura
+کود,code
+کروا,krwa
+آجا,aja
+اپنے,apne
+ڈوبا,dooba
+لگانا,lagana
+ماند,maand
+سینڈنگ,sending
+ماہ,mah
+کریگا,karega
+پاتے,paate
+چالاک,chalak
+ملال,malal
+دیر,dear
+دیواروں,deewaaron
+مسلمانو,muslmanu
+انا,anaa
+فيٹير,future
+سیکھا,seekha
+لوگو,logo
+اای,i
+رام,ramgar
+تڑپتا,tarapta
+آجکل,ajkal
+کرانا,krana
+انوشے,anoushey
+سندر,sundr
+نازک,nazuk
+آنٹی,aunti
+کرتا,karta
+کیچڑ,keechar
+کچرا,kachra
+خدایا,khudaya
+اجداد,ajdaad
+ب,b
+شامی,shami
+بیہوش,behosh
+سادہ,sada
+بولی,boli
+چڑھا,charha
+چاہیں,chachey
+سکیں,sken
+گا,ga
+فرش,farsh
+د,da
+کنوٹ,knot
+ایسا,aisa
+ناین,nine
+نکلا,nikla
+انٹرنیٹ,internet
+لوںگا,lo
+پللو,pillow
+ظہیر,zaheer
+طوطوں,toton
+یادیں,yaaden
+هنس,hans
+سٹيپ,step
+والوں,walon
+لاشیں,lashen
+اپنی,apni
+والے,wale
+سچ,sach
+ترین,tareen
+بچی,bachi
+اوس,aus
+مشہور,mushhoor
+اننکينٹ,innocent
+ٹکرا,tukra
+تہس,this
+حارش,harsh
+مرزا,mirza
+رخسانہ,rukhsana
+ہام,sham
+ہوت,hoti
+امےر,ameer
+لؤ,lo
+نام,nam
+انعام,inaam
+سنگاکارا,sangakara
+لڑائی,lrai
+بھیگ,bheeg
+لکھتے,likhte
+ہاتوں,hatthon
+پونڈ,poni
+گزرے,gzrega
+تاو,tao
+کسک,kscnumaz
+پرواز,perwaaz
+ٹپکتا,tpkta
+آپی,api
+ھیں,hain
+رہی,rahi
+پھونک,phook
+انہی,inhi
+بٹس,batsman
+چکا,chuka
+رقص,raqs
+طور,tor
+وضاحت,wazaht
+کتنا,kitna
+ھیلڈ,held
+دہکتے,dehekte
+تنا,itna
+فرمایا,farmaya
+پؤيٹری,poetry
+بھروسے,bharosay
+رسول,rasool
+مسلمان,musalman
+سنڈ,send
+ذمانا,zama
+غمی,ghami
+مستانہ,mastana
+اندر,andar
+ملول,malool
+زبر,zabr
+کور,kor
+شا,sha
+سنسان,sunsan
+دیکھا,dekha
+کہے,kahe
+باد,baad
+روسے,rose
+ہارو,haaro
+فيصل,faisal
+پری,pari
+رانا,rana
+قریب,qareeb
+چول,chwal
+نمازی,namazi
+بهی,b
+پاس,pas
+کھلتی,khilti
+وکا,oka
+پوچھی,pochi
+بھولنا,bhulana
+ڈولی,dolly
+بیسٹ,best
+شیری,sheri55
+گوگل,google
+اطراف,atraaf
+کونے,koney
+سوفٹ,softchat
+تالیاں,talian
+منافقت,munafqat
+بهادر,bahadur
+مست,mast
+طبیب,tabeeb
+اس,is
+عجیب,ajeeb
+نيوز,news
+لاکي,lake
+سومورو,soomro
+سعد,saad
+کارو,karo
+بزدار,buzdar£(taunsa£
+ساز,saaz
+آکر,aakar
+فریدی,fareedi
+حےلو,hello
+قصی,qasi
+عورتوں,aurton
+ليٹٹر,letter
+آج,aj
+آخری,aakhri
+انکو,unko
+کوشش,koshish
+راجا,raja
+ہاتھ,hath
+وصی,wasi
+چیز,cheez
+سمایا,sumaya
+ورقہ,warq
+گيسٹ,guest
+اختیارات,ikhtiyarat
+شوخ,shokh
+لعل,lal
+متھ,muth
+نبھاتے,nibhatay
+١٠٠,100
+لوها,loha
+وجود,wajood
+پونچھ,ponch
+٤,4
+ڈارک,darkeyes
+آفتاب,aftab
+ییس,yes
+ذوق,zoq
+بالوں,balon
+حاجت,hajat
+پرستی,parasti
+ریپلے,reply
+بھاگنا,bhagna
+سیرو,seeru
+زبیر,zubair
+تھس,this
+قربان,qurban
+جلا,jala
+قیامت,qyamat
+ڈریمز,dreamzz
+تتلی,titli
+مسکراہٹ,muskarahat
+رکھنی,rakhni
+بھروسہ,bharosa
+ڈوبتی,doobti
+رہیں,rahin
+نبی,nabi
+رفاقت,rafaqat
+ریکو,request
+رفتگاں,raftagan
+دھڑکا,dharka
+جاناں,jana
+بوم,bombom
+شوپ,shop
+حقدار,hakdar
+دیوانہ,diwana
+علی,ali
+نشانی,nishani
+کوالفيڈ,qualified
+بیچ,bech
+رہو,raho
+فواد,fawad
+آدھا,adha
+خام,khaam
+رضی,razi
+ٹوٹنے,tootne
+تقدیر,taqdeer
+مزاج,mizaj
+کورے,korey
+مہر,mehr
+عبادت,ibadat
+کشم,kashmiri
+ويلکم,welcome
+انگلی,ungli
+جنید,junaid12
+تاروں,taron
+ترک,tark
+آرٹی,arty
+تمھیں,tumhen
+آتے,ate
+جگا,jaga
+باربار,bar
+خودی,bekhudi
+اچھے,ache
+امين,ameen
+ہون,hon
+مرضی,marzi
+زپر,z
+پایا,paya
+گهر,ghr
+کلیوں,kaliyoo
+پارٹ,part
+یير,year
+انفڈيلٹي,infidelity
+خرمی,khurmi
+مون,moon
+ہوٹ,hotgirl302
+مصروف,masrof
+الحمدلللہ,al
+آدمی,admi
+تھ,thi
+کونکريٹي,concrete
+دامن,daman
+تراش,taraash
+بعد,bad
+ٹیسٹ,test
+نسوار,niswar
+آ,aa
+چہرے,chehre
+برباد,barbad
+جاننے,janane
+ڈوگ,dog
+چراغ,chirag
+يحيا,yahya
+خرچ,kharch
+پہاڑ,pahar
+سادی,sadi
+اتفاق,itafaq
+ناموس,namos
+دنیا,dunya
+کوھول,alcohol
+اٹھنا,uthna
+ابیع,rabi
+دا,da
+پرہو,perho
+اگگريگيٹ,aggregate
+چکروں,chkron
+کاسٹ,cast
+معذور,mazor
+منایا,manaya
+ہمم,hmmmmm
+ناگوار,nagwar
+چاہیئے,chahiye
+پين,pain
+اللي,ally
+مناتا,manata
+ھوںج,hun
+اکٹر,actor
+اندھیرے,andheray
+مجے,mujay
+خفا,khafa
+تینوں,tenu
+تلخ,talkh
+دیپ,deep
+ابل,able
+بکتا,bikta
+عادتیں,aadatein
+رومز,rooms
+لاکھ,lakh
+فٹبال,football
+جوہر,juharabad
+پینا,pina
+ٹکڑوں,tukron
+سارک,sarika
+لمیٹڈ,unlmitd
+جار,j
+میٹر,metr
+ٹیل,tell
+دھماکے,dhamakay
+کلپنا,kalpana
+قابو,qaboo
+عظیم,azeem
+حسسیں,hussain
+آنا,aana
+خوبصورت,khubsurat
+داری,dari
+دیکھ,dekh
+خوں,khon
+ٹرکک,truck
+رهنے,rehne
+گھسے,ghussay
+ہنستے,hanste
+سمجھتا,samajhta
+بريکفاسٹ,breakfast
+شمع,shama
+ایشا,ayesha
+ٹینا,tina
+سنگ,sang
+کریں,kren
+کونی,koni
+شیخ,sheikh
+مزے,mazay
+لگانی,lgani
+نتاشا,ntasha
+باہوں,baanhon
+وکے,okay
+لیکن,lekin
+سلا,silamat
+فرينڈ,friend
+باری,buri
+ٹی,t
+معیار,mayaar
+رافضی,rafzi
+گہرے,gehray
+ناکامی,nakami
+ننيٹي,ninety
+بیٹھ,beth
+کیجیئے,kijye
+ڈون,do
+لایا,laya
+یاپ,yap
+انفليينس,influence
+امنہ,amna
+وہیں,wahin
+زیدہ,zaida
+سوتا,sota
+ہاسا,haasa
+اتنی,itni
+سٹيل,steel
+مبتلا,mubtala
+گزرتا,guzrta
+لکیروں,lakiron
+ناشتا,nashta
+گدو,gado
+جرم,jurm
+سخت,sakht
+آگیا,agaya
+فرم,frm
+منگ,mung
+سیالکوٹ,sialkot
+دیے,diye
+کسوں,kason
+نید,need
+کتنے,kitne
+سکا,saka
+پکی,paki
+منظور,manzor
+زا,za
+دوؤ,do
+دیوبند,deobandi
+بولتے,bolty
+دھوکہ,dhoka
+بوتا,bolta
+فورٹي,forty
+جھکنا,jhukna
+معصومہ,masoma
+ڈھلا,dhala
+لان,landa
+دورنگ,during
+انور,anwar
+تحریریں,tahreeren
+جونٹ,joint
+باقي,baaqee
+ٹھنڈک,thandak
+مسکراتے,muskratay
+ٹیچر,teacher
+لينڈ,lend
+گروپ,group
+پانیر,pioneer
+یہی,yahi
+کروانی,krwani
+چاندنی,chandni
+ستو,ston
+کھڑی,khari
+شوٹ,sho
+انجان,anjan
+اٹس,its
+۱۵,15
+لمبے,lambay
+سکور,score
+جواد,jawad
+حوصلہ,hosla
+اسما,asma
+اٹھو,utho
+چائے,chay
+گیلا,geela
+تمہاری,tumhari
+عادی,aadi
+3,3
+گھٹا,ghata
+نومبر,numbr
+حيل,hell
+ستون,gstones
+شیشہ,shesha
+اج,aj
+ٹوٹے,tootay
+کسی,kisi
+آکاش,akash
+مجھ,mujh
+سرا,sara
+بنگلادیش,bangladesh
+الٹنے,ulatne
+سانس,sans
+دلوں,dilon
+کللنگ,killing
+حارڈ,hard
+بری,buri
+رونی,roni
+ریحان,rehan
+چلنے,chalnay
+ٹوپک,topic
+تھنک,think
+پٹری,patri
+ہوجاؤ,hojao
+جسم,jism
+تونے,tu
+انگوٹھا,angotha
+حونيي,honey
+لاو,law
+زاہد,zahid
+سنتا,sunta
+ہپ,h
+بھٹکے,bhatkay
+گار,gaar
+سکم,skm
+صحرا,sehra
+شورٹ,shortcut3
+لاین,line
+جهان,jahan
+گھوم,ghum
+امڈ,umad
+بلا,bula
+ماہی,mahi
+مہربان,mehrban
+بھول,bhool
+دینا,dena
+برعکس,baraakss
+پلکوں,palkon
+یے,ye
+دانش,danish
+لبوں,labon
+واقعے,waqiye
+صاحب,sahb
+عدد,adad
+تمیں,tumen
+جاوں,jaon
+قوم,qom
+اسکے,uske
+آمین,ameen
+سنوارتی,sanwarti
+جلتی,jalti
+غیرت,gherat
+مہروز,maheroozwaalaikum
+نماز,namaz
+نازی,nazi
+پووڑ,power
+ابلیس,ablees
+بوتھ,both
+سال,saal
+ماننا,mana
+پھل,phal
+انتظار,intzar
+حصار,hisar
+خرید,khareed
+بنے,bne
+بندہ,bnda
+پچاس,pachaas
+صابن,sabun
+بلاکر,blacker
+ثانی,saani
+نوم,nom
+ابراہیم,ibraheem
+جذبے,jazbe
+خریدا,kharida
+پیارا,pyara
+نيو,new
+انگلیاں,ungliyan
+مریضوں,marizo
+بهائ,bhai
+احماڈ,ahmad
+١١,11
+ٹرین,train
+مستی,masti
+ساجد,sajid
+حالی,chali
+داخل,dakhil
+حیران,heran
+وداع,wada
+نکال,nikal
+موت,mout
+گولٹ,guilt
+سوتی,soti
+خواجہ,khawaja
+بيت,beet
+برانچ,branch
+امبر,u
+کا,ka
+الوداع,alweda
+آفاق,afaq
+ينگلش,english
+چ,cherry
+مڈل,mdl
+ناشتہ,nashta
+ساری,sari
+کرے,kare
+دیکھنی,dekhni
+زبردست,zbrdast
+یا,ya
+لڑکا,larka
+پاپير,paper
+فاروک,farooq
+لکیر,lakeer
+حجاب,hijab
+جا,ja
+نوں,nu
+ماریا,maria
+١٦٠,160
+شہید,shaheed
+سمجھنے,smjhne
+کڑوا,karwa
+چوہا,choha
+پولیس,police
+دوش,dosh
+کمرا,kamra
+نفیس,nafees
+لاهور,lahore
+نینا,naina
+زرقا,zarqaw1y
+کنجوسی,kanjosi
+افرا,ifrah
+پوروں,pooron
+انکل,uncle
+يگگ,egg
+معصومین,masomen14labikyahussainkisi
+حیرانی,haerani
+روپ,rop
+یاسر,yasir
+ماشاء,masha
+لگتی,lagti
+تسکین,taskeen
+موبی,mobirock
+چلایا,chilaya
+چاہو,chaho
+لاتی,latikehti
+راگ,rag
+آغاز,agaz
+برسوں,barson
+پارو,paroo1me
+انجانے,anjane
+اتینڈ,attend
+پہونچا,phoncha
+بيس,bees
+ناراض,naraz
+ادھر,idhr
+نیا,naya
+قبول,qabool
+زیا,zya
+رکن,rukn
+سٹيڈينٹ,student
+بتا,bta
+خاطر,khatir
+غالب,ghalib
+چوکیدار,chwkidar
+بھولتا,bhoolta
+سلام,salam
+کچھ,kuch
+ٹري,try
+پکڑوں,pakron
+کیاکیا,kya
+ہوا,hua
+جہاں,jahan
+سوچا,socha
+ہوے,hue
+ناز,naaz
+کونٹربيٹي,contribute
+ڈالتا,dalta
+آیندہ,ainda
+حويوز,house
+ڈرتی,darti
+مناتے,manate
+جنگ,jung
+تحقیق,tehqeeq
+بلاسٹ,blasts!m
+دیوانگی,deewangi
+سپورٹس,sportsman
+اوقات,auqaat
+یهی,yhi
+اعتراض,aitraaz
+بیولوجی,bio
+هاتھ,hath
+تقسیم,taqseem
+ذ,zr
+تے,te
+کھل,khul
+دو,do
+کوکہا,k
